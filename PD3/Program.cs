@@ -27,7 +27,7 @@ class Pracownik
         }
         else
         {
-            Console.WriteLine("Błąd: Wynagrodzenie musi być większe od zera!");
+            Console.WriteLine("Wynagrodzenie musi być większe od zera");
         }
     }
 }
